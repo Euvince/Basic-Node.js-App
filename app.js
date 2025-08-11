@@ -6,7 +6,7 @@ import { NotFoundError } from './functions/errors.js'
 import { createReadStream } from 'node:fs'
 
 
-// console.log("Bonjour à tous !")
+// console.log("Bonjour à tous !!!")
 
 createServer(async (request, response) => {
 
